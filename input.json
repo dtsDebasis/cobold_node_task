@@ -1,0 +1,86 @@
+{
+    "friends": ["A", "B", "C", "D", "E"],
+    "expenses": [
+        {
+            "date": "01/01/2021",
+            "paidBy": "A",
+            "amount": 306,
+            "splitBetween": ["A", "B", "C"]
+        }, {
+            "date": "01/01/2021",
+            "paidBy": "B",
+            "amount": 200,
+            "splitBetween": ["B", "C"]
+        }, {
+            "date": "01/02/2021",
+            "paidBy": "A",
+            "amount": 540,
+            "splitBetween": ["A", "C", "D", "E"]
+        }, {
+            "date": "01/02/2021",
+            "paidBy": "C",
+            "amount": 2400,
+            "splitBetween": ["D", "C", "E"]
+        }, {
+            "date": "01/02/2021",
+            "paidBy": "D",
+            "amount": 342,
+            "splitBetween": ["D", "C", "A", "B"]
+        }, {
+            "date": "01/03/2021",
+            "paidBy": "E",
+            "amount": 1210,
+            "splitBetween": ["E", "A", "B", "D"]
+        }, {
+            "date": "01/04/2021",
+            "paidBy": "D",
+            "amount": 214,
+            "splitBetween": ["E", "A"]
+        }, {
+            "date": "01/04/2021",
+            "paidBy": "A",
+            "amount": 300,
+            "splitBetween": ["A", "B", "C"]
+        }, {
+            "date": "01/05/2021",
+            "paidBy": "B",
+            "amount": 1200,
+            "splitBetween": ["E", "D", "B"]
+        }, {
+            "date": "01/05/2021",
+            "paidBy": "C",
+            "amount": 400,
+            "splitBetween": ["A", "C"]
+        }, {
+            "date": "01/05/2021",
+            "paidBy": "D",
+            "amount": 354,
+            "splitBetween": ["A", "B", "D"]
+        }, {
+            "date": "01/06/2021",
+            "paidBy": "E",
+            "amount": 1000,
+            "splitBetween": ["A", "E"]
+        }, {
+            "date": "01/06/2021",
+            "paidBy": "D",
+            "amount": 400,
+            "splitBetween": ["D", "A"]
+        }, {
+            "date": "01/06/2021",
+            "paidBy": "C",
+            "amount": 1034,
+            "splitBetween": ["A", "B", "C", "D"]
+        }, {
+            "date": "01/07/2021",
+            "paidBy": "A",
+            "amount": 500,
+            "splitBetween": ["A", "E"]
+        }, {
+            "date": "01/07/2021",
+            "paidBy": "E",
+            "amount": 600,
+            "splitBetween": ["C", "D", "E"]
+        }
+    ]
+}
